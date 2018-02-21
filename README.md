@@ -16,4 +16,4 @@ Work Log:
 2/14: Cleaned up code and changed processes from ready state to running state. ~ 2 hours
 2/18: Split trace tape up and set the according time quantum given. Worked on trace tape methods. ~ 1 hour
 2/19: Worked on waiting list and changed it to ready. Had running go to ready. And had running terminate to finish process. ~3 hours
-2/20: Finalized code by having methods call in correct order. ~1 hour
+2/20: Methods call in correct order and worked on Graphical interface. ~2 hour
